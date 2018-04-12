@@ -1,0 +1,1 @@
+taskkill /F /FI "imagename eq <½ø³ÌÃû.exe>"
