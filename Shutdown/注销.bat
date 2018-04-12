@@ -1,0 +1,1 @@
+shutdown -l -t 600
